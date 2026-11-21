@@ -1,6 +1,6 @@
 # cloud-itonami-unspsc-27
-Classification reference: UNSPSC® (United Nations Standard Products and Services Code), code 27. © United Nations Development Programme (UNDP). UNSPSC® is a registered trademark of UNDP. This app is not produced, reviewed or endorsed by UNDP.
-分類の参照: UNSPSC®（国連標準製品・サービス分類）のコード 27。© 国連開発計画（UNDP）。UNSPSC® は UNDP の登録商標です。日本語の名称は当方の訳です。この app は UNDP が作成・確認・推奨したものではありません。
+Classification reference: UNSPSC® (United Nations Standard Products and Services Code), code 27000000. © United Nations Development Programme (UNDP). UNSPSC® is a registered trademark of UNDP. This app is not produced, reviewed or endorsed by UNDP.
+分類の参照: UNSPSC®（国連標準製品・サービス分類）のコード 27000000。© 国連開発計画（UNDP）。UNSPSC® は UNDP の登録商標です。日本語の名称は当方の訳です。この app は UNDP が作成・確認・推奨したものではありません。
 
 Open Business Blueprint (implemented actor) for **UNSPSC segment 27**:
 Tools and General Machinery.
